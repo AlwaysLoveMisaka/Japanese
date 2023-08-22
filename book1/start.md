@@ -2,8 +2,8 @@
 
 ## 清音
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell Line 1
-Content Cell  | Content Cell Line 2
-Content Cell  | Content Cell Line 3
+              | あ段 | い段
+------------- | ------------- | -------------
+あ  | Content Cell Line 1 |
+か  | Content Cell Line 2 |
+さ  | Content Cell Line 3 |
